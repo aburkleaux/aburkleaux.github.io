@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://aburkleaux.github.io
+title: Alexandria Burkleaux
+tagline: Projects and news from my evil lair to yours
+description: My awesome new site
+paginate: 5
